@@ -14,3 +14,10 @@ The focus of the project was to combine three different sets of data to investig
 Skills: data cleaning, data analysis, joins, data visualization and export an pivot table to an excel file. <br/>
 Technology: Python, Pandas, Numpy
 
+[Movie Ratings](https://github.com/Kathi-Urban/portfolio/blob/main/Movie%20Rating/Movie%20Ratings%20Project.ipynb):<br/>
+The objective is to determine if Fandango's ratings had a bias towards rating films higher in order to sell more tickets. The dataset contains a list of aggregate data for movie ratings from various sites. The project includes the following steps: data loading, data preprocessing, merging, EDA (exploratory data analysis).<br/>
+Skills: data analysis, data visualization <br/>
+Technology: Python, Pandas, Numpy, Seaborn, Matplotlib 
+
+
+
